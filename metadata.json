@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS AI Autopilot",
+  "description": "Accessibility-focused gaming assistant featuring real-time HUD perception, Arabic voice controls, tactical audio guidance, and policy-compliant control evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

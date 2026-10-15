@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">NEXUS AI Autopilot</string>
+    <string name="tagline">Play Beyond Physical Limitations</string>
+    <string name="accessibility_mission">AI gaming assistant empowering players with physical disabilities</string>
+
+    <!-- Navigation & Tabs -->
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_perception">Vision &amp; HUD</string>
+    <string name="tab_voice">Voice &amp; Audio</string>
+    <string name="tab_tactics">Tactical Engine</string>
+    <string name="tab_system">System &amp; Policy</string>
+
+    <!-- Autopilot States -->
+    <string name="status_idle">Standby / جاهز</string>
+    <string name="status_analyzing">Active Perception / تحليل نشط</string>
+    <string name="status_assisting">Audio Guiding / توجيه صوتي</string>
+    <string name="status_paused">Paused / متوقف مؤقتاً</string>
+    <string name="btn_start_autopilot">Start AI Assist</string>
+    <string name="btn_stop_autopilot">Stop Assist</string>
+    <string name="btn_emergency_stop">EMERGENCY STOP / إيقاف طارئ</string>
+    <string name="btn_voice_listen">Speak Command (Arabic / EN)</string>
+
+    <!-- Profiles -->
+    <string name="profile_assist">Accessibility Assist / مساعدة الوصول</string>
+    <string name="profile_defensive">Defensive Survivor / استراتيجية دفاعية</string>
+    <string name="profile_balanced">Balanced Tactical / تكتيكي متوازن</string>
+    <string name="profile_aggressive">Aggressive Rusher / اقتحام هجومي</string>
+    <string name="profile_navigation">Nav &amp; Safe Zone / ملاحة ومنطقة آمنة</string>
+
+    <!-- Voice Feedback Prompts -->
+    <string name="voice_cmd_start">ابدأ المساعدة</string>
+    <string name="voice_cmd_explain">اشرح لي ما يحدث</string>
+    <string name="voice_cmd_nav">ساعدني في اختيار الطريق</string>
+    <string name="voice_cmd_defensive">اجعل الاستراتيجية دفاعية</string>
+    <string name="voice_cmd_stop">توقف فوراً</string>
+    <string name="voice_cmd_status">ما حالة الاتصال؟</string>
+
+    <!-- Permissions and Shizuku -->
+    <string name="perm_overlay">Floating Overlay Permission</string>
+    <string name="perm_projection">Screen Capture (MediaProjection)</string>
+    <string name="perm_audio">Microphone (Voice Commands)</string>
+    <string name="shizuku_status_running">Shizuku Service Running / خدمة شيزوكو تعمل</string>
+    <string name="shizuku_status_stopped">Shizuku Not Running / شيزوكو غير متصل</string>
+    <string name="shizuku_permission_granted">Shizuku Authorized / مصرح</string>
+    <string name="shizuku_permission_denied">Shizuku Not Authorized / غير مصرح</string>
+    <string name="wireless_adb_title">Wireless Debugging ADB Pairing</string>
+    <string name="adb_port_label">Port (e.g. 37000)</string>
+    <string name="adb_code_label">Pairing Code (6 digits)</string>
+    <string name="btn_pair_adb">Pair Wireless ADB</string>
+
+    <!-- Policy & Compliance -->
+    <string name="policy_title">Game Policy &amp; Fair Play Compliance</string>
+    <string name="policy_desc">Free Fire and competitive battle royale games employ strict anti-cheat and terms prohibiting automated third-party input injection. NEXUS operates in Authorized Accessibility &amp; Tactical Audio Guidance Mode to prevent account bans while providing full HUD scene narration and voice assistance.</string>
+</resources>
